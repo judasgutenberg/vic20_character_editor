@@ -1,0 +1,117 @@
+ready. 
+0 rem blue world ohr editor: of kart mueller 6-29-1984; olue world/pellobn;.,or v io-20 3k 2 prlet"a':ohrl,(8]:poke52,24;poke56,24:t=peek(648)lo=6144;rs=tx255;w=37888+2561(2o. ndt):c=b;poke38803,254 .3 poke650,128:4ort=bto7679lpoket,peekC25624+t)l4ext:poke650,128 4 a$=" ',prInt".alLrlA$;.,ort=lto8:print"LAAU:Ibb(93:"L.RZInext:print't: ttt,;11=0:gooub51 3 goeub53 9 x=0ly=0tgetbS;l434=-"then26 10 h=asor.a10:/=-Ch=44)orh=73;x=-Ch=25)orh=74;pokeh,peek'Cn7+sttnEpeek[n)-503x128mC h=75] 14 m=a,)ooub46:onheoto38,56,22,17,52,60,15,17,1914oto26 15 h=32-12BX(h=136):gooub50goto26 17 uooub751b=1orh=8ld=h=8:.ort=lto8+4xd:xorr=lto8+4xCh=4),,=e+22x(txb-sxdj-rtta-8 7tCh=4) 18 m=o+22xt+r:x=peekCyllpokey,Peek(m);pokem,50nextr,t‘goto8 19 gosalo75.4ort=lto8,4orr=lto8,h=oen[CpeekCo+22xr+t)3-32);x=x+hx2Cr-1) 20 nextooke819+t,x:x=0lnext:/=820,4oto59 22 booub75:4ort=1to8,1orr=1to8m=o+22xt+r:h=sen(peekCm)-503;dokem,peek(m)-hx128, nextr,t 26 goeub75tj=j+x:I=J+(j)8]-(1<1),k=k+ylk=k+Ck>8)-Ck(1)ln=o+,1+22ik:poken,peekEo)+ 11;goto9 38 eosub75l,ort=lto8,4orr=1toS:h=senCCpeekCo+22xt+r17-32):x=x+hx2o.C-r+83:next:po ket-l+o xlx=0:4ext 43 geta$:poke36879,27,,44$=""thenpoke36879,25goto43 44 gooub46;onhooto48.80,3,79,49,50,goto43 46 h=aboCbsoCa$1-132Jtreturn 48 h=32,400ub50 49 o=o-l-Ellgoto8 50 fort=lto8;,orr=lto8,pokem+22mt+r,h:nextr,t;return 51 r=211.rort=0to191;,4t/10=int(t/10)thenr=r+12 52 poker+t+aXooker+t+w,6,next 53 print"0,72;sbor_2201:-loo="o" ",11=w:h=6;gooub501.40)7672then29 54 return 55 Pilhi ,spor.2363,epoCh],return 56 h=199,gooub55:print"ohr? 21111"Ht=s+467:geta$:poket,321lfm$=""thenpoket 160:goto56 57 m=hoo(4$)::fm<32orm>127&ndm<160then56 58 printa$:,==peek(t)x8+b:h=178,epoub55lprInt"otoo="lv 59 .Fort=1to8lorr=0to2:pokes+tx22-r+8,32+128xsen(peekCt-l+x)hnd2Cr]):nextr,t:go to8 60 m=1 62 h=199:gooub55,print"hdr r_ p:,.9.ta$:,4aW"thengosub55:prtnt".04,3 ";Dg; g oto62 83 h.,6socht,):,4h=20bhdienCb$D0thenprInto14 ol,=leftt(b$,leeCb$]-17 64 ifh=l3then72 65 lih<48orh>57goto52 58 I4lentb$X5thenb4=b4+a$ 69 eoto62 22 x=val(b$3:o$="",:fx<borx>worx>=ohndx<o+512then8 73 im=ltheno=x:goto8 74 Y.)69.i.59 75 4=peekCpoken,a+11x(4=43ora=171):return 79 Input"aille name",o$,open1,1,1,bort=bto7679:prtntx1,peek[t)next,clooe1 30 prIbt"8poke650,0:end 
+
+
+
+
+
+ready.
+
+8 rem blue world chr editor: oy karl mueller 6-29-1984: pive world-/pelican:tor v
+
+te-28 3k
+
+2 print "S"chr$(8): pokeS2,24: poke56 ,24: t speek (648): p=8144: 5 =t X256: w=8788S+256X( 2a
+- adt J: c sb: poke36869 ,254
+
+3 poke659 ,128: tort =bto07679: poket ,peekC26B24+4t J: next 2 poke858,128
+
+4 aps" “sprint "Sar" rads Sort =1ltoSiprint "rg R’stabC9Ii “yr. R"-nextiprint"r”
+
+sadsh=B: gosub5Si
+
+8 gosub53
+
+3 x=O: y=Bi getad: 'tfasg=""then26
+
+ie h=asc fad): y=—-Ch=44 Jorh=273: «=-Ch =76 Jorh=74: poken ,peektn Jt+sonCpeek Cn J-58 IX128XC
+
+275)
+
+i4 m=s:gosub46:9nhg0t038,56,22,17,62,68,15,17,19: 901026
+
+15 h=32-128%Ch=136 ): gosub5B8: 90to026
+
+i? gosub75:arlorh=8id=h=8: fort =1to8t+4xd: forr =1t08+4R(h $4 J: yas +22KCt XKa-9¥d J-1 Ka-J
+
+*Ch=4)
+
+18 m=st+22et+tr:sx=peek (Cy): pokey ,peek(m):pokem,x:inextr ,t-90t08
+
+i393 gosub25: fort =1to8: torr =itoSsh=esgnC( Cpeek(s+22%r+t I-32): caxthx2alr—-1 )
+
+28 next: pokeS1Stt ,x2«=8) ext sy=828: 901059
+
+22 gosub75: fort =1to8: torr =1to8: n=st+22kt tr eh=sgnlpeev(mI)-50): pokem,peek (mI-hxi 28:
+
+nextr,t
+
+26 gosub75s j=stxt jagtlJoSI-Cy cd ik sk tyik sk+Ck 08 I-Ck C1 Jin es4+J+22Kki poken peek (n J+
+
+ilsqotog
+
+38 gosub75: fort =1to8: forr=1to@:h=son( (peek Cst+22xt +r J I-32 J: KeKthX2er(—-1 +8 i nextipa
+
+vet—-itc ,x:«=8: ext ‘
+
+43 getad: poke3G879 ,27: ' fags" "“thenpoke36879 ,25: 90to43
+
+44 gosub46-onhg0to48 ,89,83,79,49 ,68: got 043 .
+
+46 h=absCascladJ—-132): return
+
+48 h=32:9osub58
+
+49 cxctBigoto8
+
+5@ fort =1to8: Sorry =1to8: pokemt22xt tr ,henextr ts return
+
+Si rs21: fort =Bt0191: 'ftiB=int Ct/18 Jthenr =r+12
+
+52 pokerttts ,tipoker+t+u,6:next
+
+53 print "Os"ispol228)3 “tocs"c" “sm=wih=6: gosub5@: ' fo >7872then79
+
+54 return
+
+30 print’s” ,spol236),spclhj,-: return
+
+56 h=199:gosub55: print “chr? ALLL" >. t =s +467: gatad: poket ,325 'fad=""thenpoket
+
+168: 90t 056
+
+57? m=asclad): tim<32orm>i27andm<i68ihend56
+
+538 printat: y=peekCt IXB+bi:h=178: g0sub55: print "cloc="sy
+
+59 fort =1to8: fory sBto7: pokestt X22—-1+8 ,32+128Xs an (peek Ct—-ity Jand2aCr J}: nextr,tiao
+
+to8
+
+68 m=1
+
+B62 h=199:gosub55:print"adr xr. R": gatade 'fas=""thengosubS5i print "gaa? “sods. 9
+
+9to62
+
+63 h=ascla$): 'fh=20andien(b$ J>Bthenpr intads. psaleftS$Cb$ lenlCb$)~1)
+
+64 tfh=13then72
+
+65 tfh<4Borh 257 g0t 082
+
+G8 itlen(b$3<Sthenb¢=bgtad
+
+B69 gotoG2
+
+72 xsval Cb$)inga"": t#xcborxdworx>ssandx<st5i2thenS
+
+73 tfm=ithenc=x: 90108
+
+74 yes goto59
+
+75 a=peek(n J: poken ,atiixla=430rasi71 Ji return
+
+73 tnput"Sftie name";o0%-apeni ,1,1,b$: fort =bto7879: pr int#i ,peeklt Jinext:closel
+
+@8 print ”’S":poke650,6: end
