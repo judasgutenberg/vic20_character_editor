@@ -1,14 +1,6 @@
-
-ready.
-
-8 rem blue world chr editor: oy karl mueller 6-29-1984: pive world-/pelican:tor v
-
-te-28 3k
-
-2 print "S"chr$(8): pokeS2,24: poke56 ,24: t speek (648): p=8144: 5 =t X256: w=8788S+256X( 2a
-- adt J: c sb: poke36869 ,254
-
-3 poke659 ,128: tort =bto07679: poket ,peekC26B24+4t J: next 2 poke858,128
+0 rem blue world chr editor: by karl mueller 6-29-1984: blue world-/pelican:for vic-20 3k
+2 print "S"chr$(8): poke52,24:poke56,24:t=peek(648):b=8144:s=t*256:w=8788S+256*(2andt):c=b:poke36869,254
+3 poke650,128:fort=bto7679:poket,peek(26624+t):nextt:poke650,128
 
 4 aps" “sprint "Sar" rads Sort =1ltoSiprint "rg R’stabC9Ii “yr. R"-nextiprint"r”
 
