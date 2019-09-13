@@ -5,12 +5,9 @@
 8 gosub53
 9 x=O:y=0:geta$:ifa$=""then26
 10 h=asc(a$):y=—(h=44)orh=73:x=-(h=76)orh=74:poken,peek(n)-50)*128*(h=75)
-
-i4 m=s:gosub46:9nhg0t038,56,22,17,62,68,15,17,19: 901026
-
-15 h=32-128%Ch=136 ): gosub5B8: 90to026
-
-i? gosub75:arlorh=8id=h=8: fort =1to8t+4xd: forr =1t08+4R(h $4 J: yas +22KCt XKa-9¥d J-1 Ka-J
+14 m=s:gosub46:onhgoto38,56,22,17,62,68,15,17,19:goto26
+15 h=32-128*(h=136):gosub50:9oto026
+17 gosub75:a=lorh=8:d=h=8:fort=1to8+4*d:forr=1to8+4*(h=4):y=s+22*(t*a-9*d)-r*a-9*(h=4)
 
 *Ch=4)
 
