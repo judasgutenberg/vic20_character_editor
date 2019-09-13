@@ -4,10 +4,7 @@
 4 a$="          ":print"SXr";a$fort=1to8:print"rX R";tab(9);"r R":next:print"r";a$:h=0:gosub51
 8 gosub53
 9 x=O:y=0:geta$:ifa$=""then26
-
-10 h=asc fad): y=—-Ch=44 Jorh=273: «=-Ch =76 Jorh=74: poken ,peektn Jt+sonCpeek Cn J-58 IX128XC
-
-275)
+10 h=asc(a$):y=—(h=44)orh=73:x=-(h=76)orh=74:poken,peek(n)-50)*128*(h=75)
 
 i4 m=s:gosub46:9nhg0t038,56,22,17,62,68,15,17,19: 901026
 
