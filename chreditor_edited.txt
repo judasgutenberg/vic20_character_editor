@@ -1,11 +1,7 @@
 0 rem blue world chr editor: by karl mueller 6-29-1984: blue world-/pelican:for vic-20 3k
 2 print "S"chr$(8): poke52,24:poke56,24:t=peek(648):b=8144:s=t*256:w=8788S+256*(2andt):c=b:poke36869,254
 3 poke650,128:fort=bto7679:poket,peek(26624+t):nextt:poke650,128
-
-4 aps" “sprint "Sar" rads Sort =1ltoSiprint "rg R’stabC9Ii “yr. R"-nextiprint"r”
-
-sadsh=B: gosub5Si
-
+4 a$="          ":print"SXr";a$fort=1to8:print"rX R";tab(9);"r R":next:print"r";a$:h=0:gosub51
 8 gosub53
 
 3 x=O: y=Bi getad: 'tfasg=""then26
