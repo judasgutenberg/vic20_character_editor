@@ -3,10 +3,9 @@
 3 poke650,128:fort=bto7679:poket,peek(26624+t):nextt:poke650,128
 4 a$="          ":print"SXr";a$fort=1to8:print"rX R";tab(9);"r R":next:print"r";a$:h=0:gosub51
 8 gosub53
+9 x=O:y=0:geta$:ifa$=""then26
 
-3 x=O: y=Bi getad: 'tfasg=""then26
-
-ie h=asc fad): y=—-Ch=44 Jorh=273: «=-Ch =76 Jorh=74: poken ,peektn Jt+sonCpeek Cn J-58 IX128XC
+10 h=asc fad): y=—-Ch=44 Jorh=273: «=-Ch =76 Jorh=74: poken ,peektn Jt+sonCpeek Cn J-58 IX128XC
 
 275)
 
