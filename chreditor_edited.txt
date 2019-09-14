@@ -8,22 +8,13 @@
 14 m=s:gosub46:onhgoto38,56,22,17,62,68,15,17,19:goto26
 15 h=32-128*(h=136):gosub50:9oto026
 17 gosub75:a=lorh=8:d=h=8:fort=1to8+4*d:forr=1to8+4*(h=4):y=s+22*(t*a-9*d)-r*a-9*(h=4)
+18 m=s+22*t+r:x=peek(y):pokey,peek(m):pokem,x:nextr,t:goto8
+19 gosub75:fort=1to8:forr=1to8:m=s+22*t:h=sgn((peek(s+22*r+t))-32):x=x+h*2X(r-1)
+20 next:poke819+t,x:x=0:nextt:y=820:goto59
+22 gosub75:fort=1to8:forr-1to8:m=s+22*t+r:h=sgn(peek(m)-50):pokem,peek(m)-h*128:nextr,t
+26 gosub75:j=j+x:j=j+(j>8)-(j<1):k=k+y:k=k+(k>8)-(k<1):n=s+j+22*k:poken,peek(n)+11:goto9  
 
-*Ch=4)
-
-18 m=st+22et+tr:sx=peek (Cy): pokey ,peek(m):pokem,x:inextr ,t-90t08
-
-i393 gosub25: fort =1to8: torr =itoSsh=esgnC( Cpeek(s+22%r+t I-32): caxthx2alr—-1 )
-
-28 next: pokeS1Stt ,x2«=8) ext sy=828: 901059
-
-22 gosub75: fort =1to8: torr =1to8: n=st+22kt tr eh=sgnlpeev(mI)-50): pokem,peek (mI-hxi 28:
-
-nextr,t
-
-26 gosub75s j=stxt jagtlJoSI-Cy cd ik sk tyik sk+Ck 08 I-Ck C1 Jin es4+J+22Kki poken peek (n J+
-
-ilsqotog
+ 
 
 38 gosub75: fort =1to8: forr=1to@:h=son( (peek Cst+22xt +r J I-32 J: KeKthX2er(—-1 +8 i nextipa
 
@@ -85,8 +76,6 @@ B69 gotoG2
 
 74 yes goto59
 
-75 a=peek(n J: poken ,atiixla=430rasi71 Ji return
-
-73 tnput"Sftie name";o0%-apeni ,1,1,b$: fort =bto7879: pr int#i ,peeklt Jinext:closel
-
-@8 print ”’S":poke650,6: end
+75 a=peek(n):poken,a+11*(a=43ora=171):return  
+73 input"Sflie name";b$:open1,1,1,b$:firt=bto7679:print#1,peek(t):next:close1  
+80 print ”’S":poke650,0:end
