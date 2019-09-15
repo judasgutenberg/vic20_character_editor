@@ -13,69 +13,37 @@
 20 next:poke819+t,x:x=0:nextt:y=820:goto59
 22 gosub75:fort=1to8:forr-1to8:m=s+22*t+r:h=sgn(peek(m)-50):pokem,peek(m)-h*128:nextr,t
 26 gosub75:j=j+x:j=j+(j>8)-(j<1):k=k+y:k=k+(k>8)-(k<1):n=s+j+22*k:poken,peek(n)+11:goto9  
-
- 
-
-38 gosub75: fort =1to8: forr=1to@:h=son( (peek Cst+22xt +r J I-32 J: KeKthX2er(—-1 +8 i nextipa
-
-vet—-itc ,x:«=8: ext ‘
-
-43 getad: poke3G879 ,27: ' fags" "“thenpoke36879 ,25: 90to43
-
-44 gosub46-onhg0to48 ,89,83,79,49 ,68: got 043 .
-
-46 h=absCascladJ—-132): return
-
-48 h=32:9osub58
-
-49 cxctBigoto8
-
-5@ fort =1to8: Sorry =1to8: pokemt22xt tr ,henextr ts return
-
-Si rs21: fort =Bt0191: 'ftiB=int Ct/18 Jthenr =r+12
-
-52 pokerttts ,tipoker+t+u,6:next
-
-53 print "Os"ispol228)3 “tocs"c" “sm=wih=6: gosub5@: ' fo >7872then79
-
+38 gosub75:fort=1to8:forr=1to8:h=sgn((peek(s+22*t+r))-32):x=x+h*2X(-r+8):next:poket-1+c,x:x=0:next
+43 geta$:poke36879,27:ifa$=""“thenpoke36879,25:goto43
+44 gosub46:onhgoto48,80,8,79,49,60:goto43
+46 h=abs(asc(a$)-132):return 
+48 h=32:9osub50
+49 c=c+8:goto8
+50 fort=1to8:forr=1to8: pokem+22*t+r,h:next,t:return
+51 r=21:fort=0to191:ift/10=int(t/10)thenr=r+12 
+52 poker+t+s:poker,t+w,6:next
+53 print "XXs";spc(220);loc="x";m=w:h=6:gosub50:ifc>7672then79 
 54 return
 
 30 print’s” ,spol236),spclhj,-: return
 
-56 h=199:gosub55: print “chr? ALLL" >. t =s +467: gatad: poket ,325 'fad=""thenpoket
+56 h=199:gosub55:print"chr? XXXX" >. t =s +467: gatad: poket ,325 'fad=""thenpoket
 
 168: 90t 056
 
-57? m=asclad): tim<32orm>i27andm<i68ihend56
-
-538 printat: y=peekCt IXB+bi:h=178: g0sub55: print "cloc="sy
-
-59 fort =1to8: fory sBto7: pokestt X22—-1+8 ,32+128Xs an (peek Ct—-ity Jand2aCr J}: nextr,tiao
-
-to8
-
-68 m=1
-
-B62 h=199:gosub55:print"adr xr. R": gatade 'fas=""thengosubS5i print "gaa? “sods. 9
-
-9to62
-
-63 h=ascla$): 'fh=20andien(b$ J>Bthenpr intads. psaleftS$Cb$ lenlCb$)~1)
-
-64 tfh=13then72
-
-65 tfh<4Borh 257 g0t 082
-
-G8 itlen(b$3<Sthenb¢=bgtad
-
-B69 gotoG2
-
-72 xsval Cb$)inga"": t#xcborxdworx>ssandx<st5i2thenS
-
-73 tfm=ithenc=x: 90108
-
-74 yes goto59
-
+57 m=asc(a$):ifm<32orm>127andm160then56
+58 printa$:y=peek(t)*8+b:h=178:gosub55:print"oloc=";y  
+59 fort=1to8:forr=0to7:pokes+t*22-r+8,32+128*sgn(peek(t-1+y)and2X(r)):nextr,t:goto8 
+60 m=1
+62 h=199:gosub55:print"adrXXXXXXXXR":geta$:ifa$=""thengosub55:print"XXX? ";b$:goto62 
+63 h=asc(a$):ifh=20andlen(b$)>thenprinta$;:b=left$(b$,len(b$)-1)
+64 ifh=13then72
+65 ifh<4Borh>57goto62  
+68 iflen(b$)<5thenb$=b$+a$
+69 goto62
+72 x=val(b$)<5:b$="":ifx<borx>worx>=Xandx<s+512then8   
+73 ifm=ithenc=x:goto8
+74 y=x:goto59
 75 a=peek(n):poken,a+11*(a=43ora=171):return  
 73 input"Sflie name";b$:open1,1,1,b$:firt=bto7679:print#1,peek(t):next:close1  
 80 print ”’S":poke650,0:end
