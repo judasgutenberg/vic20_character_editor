@@ -9,3 +9,5 @@ The code has been migrated to a .txt file, but I am still trying to figure out h
 
 It looks like this could come in handy: 
 http://sta.c64.org/cbm64pet.html
+
+I think I might have a couple broken VIC-20s in the attic back at my childhood home in Virginia.
