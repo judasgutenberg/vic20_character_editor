@@ -12,4 +12,4 @@ The biggest problem with the restoration of this code is the non-standard ASCII 
 It looks like this could come in handy: 
 http://sta.c64.org/cbm64pet.html
 
-I think I might have a couple broken VIC-20s in the attic back at my childhood home in Virginia.
+I think I might have a couple broken VIC-20s in the attic back at my childhood home in Virginia. There's also most of a C-128.
