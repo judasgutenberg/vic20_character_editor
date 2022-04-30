@@ -40,5 +40,5 @@
 73 ifm=ithenc=x:goto8
 74 y=x:goto59
 75 a=peek(n):poken,a+11*(a=43ora=171):return  
-73 input"Sflie name";b$:open1,1,1,b$:firt=bto7679:print#1,peek(t):next:close1  
+73 input"Sflie name";b$:open1,1,1,b$:fort=bto7679:print#1,peek(t):next:close1  
 80 print"S":poke650,0:end
