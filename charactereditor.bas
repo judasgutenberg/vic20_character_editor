@@ -10,3 +10,16 @@
 17 gosub75:a=1orh=8:d=h=8:fort=1to8+4*(h=4):y=s+22*(t*a-9*d)-r*a-9*(h=4)
 18 m=s+22*t+r:x=peek(y):pokey,peek(m):pokem,x:nextr,t:goto8
 
+
+
+
+
+
+
+72 x=val(b$)<5:b$="":ifx<borx>worx>=Xandx<s+512then8   
+73 ifm=ithenc=x:goto8
+74 y=x:goto59
+75 a=peek(n):poken,a+11*(a=43ora=171):return  
+73 input"Sflie name";b$:open1,1,1,b$:fort=bto7679:print#1,peek(t):next:close1  
+80 print"S":poke650,0:end
+
