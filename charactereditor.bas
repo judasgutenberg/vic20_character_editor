@@ -14,8 +14,8 @@
 22 gosub75:fort=1to8:forr-1to8:m=s+22*t+r:h=sgn(peek(m)-50):pokem,peek(m)-h*128:nextr,t
 26 gosub75:j=j+x:j=j+(j>8)-(j<1):k=k+y:k=k+(k>8)-(k<1):n=s+j+22*k:poken,peek(n)+11:goto9  
 38 gosub75:fort=1to8:forr=1to8:h=sgn((peek(s+22*t+r))-32):x=x+h*2^(-r+8):next:poket-1+c[?],x:x=0:next
-43 geta$:poke36879,27:ifa$=""thenpoke36879,25:goto43
 
+43 geta$:poke36879,27:ifa$=""thenpoke36879,25:goto43
 44 gosub46:onhgoto48,80,8,79,49,60:goto43
 46 h=abs(asc(a$)-132):return 
 48 h=32:9osub50
