@@ -7,7 +7,7 @@ Each character was an eight by eight monochrome grid of pixels. I was sixteen wh
 
 The code has been migrated to a .txt file and then to a .bas file (which has my latest understanding of the code), but I am still trying to figure out how to migrate Commodore's proprietary control codes so the UI will work correctly.  These codes were represented in arbitrary hard-to-discern symbols by the Commodore 1520 plotter that I used to originally print the code listing back in 1984.
 
-Also:  CBM's version of "^" (which means "raise to the power of" in BASIC) seems to have been turned into "π" by the plotter I used to print my code listing.
+Also:  CBM's version of "^" (which means "raise to the power of" in BASIC) seems to have been turned into "π" by the plotter I used to print my code listing.  That's not the only character that ends up as "π" when printed by that plotter.
 
 It looks like this could come in handy: 
 http://sta.c64.org/cbm64pet.html
